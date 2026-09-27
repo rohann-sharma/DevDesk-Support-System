@@ -102,3 +102,7 @@ Open **`http://localhost:3000`** in your browser.
 | `POST` | `/api/tickets` | Create a new ticket |
 | `PUT` | `/api/tickets/:id` | Update ticket details/status/priority |
 | `DELETE` | `/api/tickets/:id` | Delete a ticket |
+
+
+
+<img width="1910" height="925" alt="image" src="https://github.com/user-attachments/assets/d50dec40-2343-4a85-87b4-3b09d48cb9a2" />
