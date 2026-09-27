@@ -106,3 +106,7 @@ Open **`http://localhost:3000`** in your browser.
 
 
 <img width="1910" height="925" alt="image" src="https://github.com/user-attachments/assets/d50dec40-2343-4a85-87b4-3b09d48cb9a2" />
+
+
+<img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/9942b437-74d1-4202-8eff-ecd140615e33" />
+
